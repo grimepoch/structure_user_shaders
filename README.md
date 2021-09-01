@@ -1,4 +1,4 @@
-<h1>Welcome to the user shader repository for users to share their shader collections!</h1>
+<h1>Welcome to the STRUCTURE user shader repository for users to share their shader collections!</h1>
 
 Remember that we have a website for developing and testing your shaders:
 
