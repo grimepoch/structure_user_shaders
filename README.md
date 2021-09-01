@@ -1,15 +1,15 @@
 Welcome to the user shader repository for users to share their shader collections!
 
 The directories are separated into different areas based on what you want us to do with the files as well
-
-user_shaders/
-   gen/
-      some_shader.glsl
-      user_name/
-         your_shader.glsl
-         your_shader2.glsl
-   efx/
-
+<br>
+user_shaders/<br>
+&nbsp;&nbsp;   gen/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      some_shader.glsl<br>
+&nbsp;&nbsp;&nbsp;&nbsp;      user_name/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         your_shader.glsl<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;         your_shader2.glsl<br>
+&nbsp;&nbsp;   efx/<br>
+<br>
 Basically the idea is you use your own moniker (user_name) if you want to keep your shaders separate and organized
 on the server.  If not, you can place them at the top level of the shader type.
 
